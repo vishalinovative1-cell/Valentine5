@@ -47,7 +47,7 @@ const App = () => {
           <img src={valentine} style={styles.gif} />
 
           <h1 style={styles.text}>
-            Harshita, will you be my Valentine?
+            Apree, will you be my Valentine?
           </h1>
 
           <div style={styles.buttonGroup}>
